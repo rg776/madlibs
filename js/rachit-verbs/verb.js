@@ -1,8 +1,8 @@
 verbs = verbs.concat([
     'run',
     'jump',
-    'code'
-    'fall'
-    'cook'
+    'code',
+    'fall',
+    'cook',
     'make'
 ]);
